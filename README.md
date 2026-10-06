@@ -2,7 +2,7 @@
 
 **CAE Engineer | Design Optimization Specialist** | AI/ML
 
-I'm a passionate engineer with 15+ years of experience transforming complex engineering challenges into intelligent, automated solutions. My expertise spans **Computer-Aided Engineering (CAE)**, **Design Optimization**, **Agentic AI Systems**, and **Machine Learning** applied to real-world engineering problems.
+I'm a passionate engineer with 17+ years of experience transforming complex engineering challenges into intelligent, automated solutions. My expertise spans **Computer-Aided Engineering (CAE)**, **Design Optimization**, **Agentic AI Systems**, and **Machine Learning** applied to real-world engineering problems.
 
 ---
 
